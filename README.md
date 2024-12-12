@@ -8,7 +8,7 @@ This project automates the process of applying to internships on Internshala usi
 - Optionally fills out the resume section on Internshala.
 - Supports customizable application limits, location, and job profile settings.
 
-``
+---
 ## Demo Video Link: <a>https://drive.google.com/file/d/1pl82vU6VkV6bjrVaPIxR0qH43g8RGk7-/view?usp=sharing</a>
 
 ## How It Works
