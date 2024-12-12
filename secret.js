@@ -1,4 +1,5 @@
 // secret.js
-let id = "shatakshi1712@gmail.com";
-let pass = "E3Lfe@j8@@FAvdL";
+// update your Internshala login credentials
+let id = "user_email@gmail.com";
+let pass = "user_password"; 
 module.exports = { id, pass };
